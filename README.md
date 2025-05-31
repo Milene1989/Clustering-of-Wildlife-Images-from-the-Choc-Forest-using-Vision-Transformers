@@ -33,7 +33,6 @@ This capstone project implements a fully unsupervised system for automatically g
   - `test/`  
 - Ground truth species labels used only for evaluation
 
----
 
 ## ⚙️ Pipeline Overview
 
@@ -50,5 +49,4 @@ This capstone project implements a fully unsupervised system for automatically g
 
 ## 📈 Evaluation Metrics
 
-| Metric                   | K-Means | GMM   |
-|--------------------------
+| Metric                   | K-Means | GMM |
