@@ -1,1 +1,1 @@
-# Código para realizar el recorte de imágenes y generar un archivo excel "cropped_images_metadata.xlsx" con la metadata de dichas imágenes. Este archivo excel se utiliza posteriormente para realizar la extracción de características.
+### Código para realizar el recorte de imágenes y generar un archivo excel "cropped_images_metadata.xlsx" con la metadata de dichas imágenes. Este archivo excel se utiliza posteriormente para realizar la extracción de características.
