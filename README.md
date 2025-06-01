@@ -1,5 +1,3 @@
-<img src="assets/banner.png" alt="Wildlife Monitoring System Banner" style="width:100%;"/>
-
 # Clustering of Wildlife Images from the Chocó Forest using Vision Transformers and Unsupervised Learning Techniques
 
 A complete unsupervised machine learning pipeline for organizing and exploring large-scale camera trap imagery from the Chocó Forest (Canandé Reserve) using Vision Transformers and clustering algorithms.
