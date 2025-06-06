@@ -26,7 +26,7 @@ The project aims to support biodiversity research by reducing dependence on manu
 
 ## 📂 Dataset Description
 
-- 40,000+ cropped wildlife images obtained from camera trap videos
+- 38,000+ cropped wildlife images obtained from camera trap videos
 - Bounding boxes generated using [MegaDetector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md)
 - Images categorized into:
   - `train/`
@@ -44,7 +44,6 @@ The project aims to support biodiversity research by reducing dependence on manu
 
 ## ⚙️ Pipeline Overview
 
-```text
 1. Preprocessing
    └── Cropping image regions based on bounding boxes (from MegaDetector)
 
@@ -62,7 +61,6 @@ The project aims to support biodiversity research by reducing dependence on manu
 5. Interpretation
    └── Qualitative inspection of cluster contents
    └── Taxonomic alignment and error analysis
-
 
 ---
 
@@ -91,8 +89,3 @@ You can find these plots in the final thesis document.
 ## 📝 Citation
 
 If you use this repository, model pipeline, or visualizations in academic or applied work, please acknowledge this project. The underlying camera trap data was provided by Fundación Jocotoco and processed using MegaDetector as part of a previous classification study by Edwin Montenegro.
-
----
-
-## 👩‍�
-
